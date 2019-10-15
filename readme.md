@@ -16,8 +16,10 @@ Purpose of this notebook/article is to explore several factors which can explain
 ## 3. File Descriptions <a name="filedesc"></a>
 _Causes of Death.ipynb_ contains all the code allowing data load, and manipulation, and graph generation
 _ghe2016_deaths_country_allages.zip_ is a copy of the dataset available on WHO website (unzip to extract _ghe2016_deaths_country_allages.csv_ and _ghe2016_deaths_codebook.xlsx_).
-Article is available on Medium:
+
+Article is available on [Medium](https://medium.com/@olivier.klein/what-do-people-die-from-85371518100f).
 
 ## 4. Licensing <a name="licensing"></a>
-Dataset used for this notebook/article is [Global Health Estimates 2016: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2016. Geneva, World Health Organization; 2018](https://www.who.int/healthinfo/global_burden_disease/estimates/en/)
+Dataset used for this notebook/article is [Global Health Estimates 2016: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2016. Geneva, World Health Organization; 2018](https://www.who.int/healthinfo/global_burden_disease/estimates/en/).
+
 Image used to illustrate the article is [designed by Freepik](http://www.freepik.com).
